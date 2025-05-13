@@ -26,3 +26,5 @@ These were the following tables we made using MySQL for the database
 5.	Admin: a table to store admin login information named as adminlogin
 
 # Project Admin - Shreya Dubey (https://github.com/shreyad2806)
+Course Code - CSE2006    Slot-C11+C12
+Faculty- Dr Dipti
